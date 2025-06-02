@@ -1,0 +1,8 @@
+C
+C
+C
+A
+B
+D
+C
+text
